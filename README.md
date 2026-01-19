@@ -3,7 +3,6 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandreshope&show_icons=true&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandreshope&layout=compact&langs_count=7&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mandreshope"/>
 </div>
 
 
